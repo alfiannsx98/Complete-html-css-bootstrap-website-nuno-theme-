@@ -6,6 +6,8 @@
   A Complete HTML & CSS Website with Bootstrap 4
 </h3>
 
+<br />
+
 Website created according to the tutorial available on YouTube:
 
 YouTube Channel: Drew Ryan
