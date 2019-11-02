@@ -17,10 +17,8 @@ Website created according to the tutorial available on YouTube:
 YouTube Channel: Drew Ryan
 https://www.youtube.com/watch?v=V_lAhqLXT9A&t=1s
 
-<h3>
-Preview
-</h3>
+## Preview
 <img src="https://github.com/camilasatie/Complete-html-css-bootstrap-website-nuno-theme-/blob/master/nuno.png" width="300px" />
-<a href="https://nunotheme.netlify.com/" targert="_blank">View Online</a>
+<a href="https://nunotheme.netlify.com/" targert="_blank">Click here to view online</a>
 
 
