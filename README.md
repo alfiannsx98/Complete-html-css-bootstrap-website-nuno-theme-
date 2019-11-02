@@ -1,4 +1,10 @@
-# A Complete HTML & CSS Website with Bootstrap 4
+<h1 align="center">
+  <img src="https://github.com/camilasatie/Complete-html-css-bootstrap-website-nuno-theme-/blob/master/codingpink.png" />
+</h1>
+
+<h3 align="center">
+  A Complete HTML & CSS Website with Bootstrap 4
+</h3>
 
 Website created according to the tutorial available on YouTube:
 
